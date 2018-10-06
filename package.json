@@ -11,7 +11,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "devstart": "./node_modules/nodemon/bin/nodemon.js"
   },
   "eslintConfig": {
     "extends": "react-app"
